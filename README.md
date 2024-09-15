@@ -1,32 +1,25 @@
-# Cross-Modal Cross-Domain Dual Alignment Network for RGB-Infrared Person Re-Identification-IEEE Transactions on Circuits and Systems for Video Technology
-- The paper can be accessed at [TCSVT2023DAN](https://ieeexplore.ieee.org/document/9770780)
+# [IEEE TCSVT] DAN: Cross-Modal Cross-Domain Dual Alignment Network for RGB-Infrared Person Re-Identification
 
+- The [paper](https://ieeexplore.ieee.org/document/9770780) can be accessed at IEEE Transactions on Circuits and Systems for Video Technology.
 - The link to the synthetic data is [here](https://pan.baidu.com/s/1XqL0PQo8pIlvFkoXdoN64g?pwd=cp9y) The train/test split of synthetic data follows the settings of the original RegDB and SYSU.
 
 
 If you find this code useful in your research then please cite
 
 
-'''
-
-@ARTICLE{9770780,
-
+```bibtex
+@article{fu2022cross,
+  title={Cross-modal cross-domain dual alignment network for RGB-infrared person re-identification},
   author={Fu, Xiaowei and Huang, Fuxiang and Zhou, Yuhang and Ma, Huimin and Xu, Xin and Zhang, Lei},
-  
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  
-  title={Cross-Modal Cross-Domain Dual Alignment Network for RGB-Infrared Person Re-Identification}, 
-  
-  year={2022},
-  
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
   volume={32},
-  
   number={10},
-  
-  pages={6874-6887},
-  
-  doi={10.1109/TCSVT.2022.3173263}}
-'''
+  pages={6874--6887},
+  year={2022},
+  publisher={IEEE}
+}
+
+```
 
 
 ## Abstract
